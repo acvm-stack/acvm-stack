@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @acvm-stack
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+acvm-stack/acvm-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->I'm a professioal in pharma market over 15 years. I look a carrer change focus in diagnostic, research, development landscape.
+My experience has been as Validation Specialist. I want infocus in data science that is why i am taking advantage of the practice site cognitiveclass.
+I'm to collaborate on projects drive to the any industry.
+You can reach reach me via email acvm@gmx.com.
